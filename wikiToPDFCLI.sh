@@ -1,0 +1,1 @@
+source ./getListWiki.sh
